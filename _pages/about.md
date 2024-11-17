@@ -1,13 +1,16 @@
 ---
 layout: about
-title: Aleksey's pages
+title: about me
+permalink: /
+subtitle: Machine Learning Engineer
+
+profile:
   align: right
   image: alex_prof_pic_small.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p><a href="https://t.me/yabondaleksey">@yabondaleksey</a></p><br>
+    <p><a href="mailto:bondaleksey@gmail.com">bondaleksey@gmail.com</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bondaleksey
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - bondaleksey/research_materials
+  - bondaleksey/recosys-for-online-school
+  - bondaleksey/training-ML-projects
+  - bondaleksey/conference_bot
